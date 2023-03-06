@@ -18,3 +18,4 @@ EdTech, a start-up called academy that which offers online training content for 
   
 ### Tools and competencies
 - Python and jupyter for Data Science
+- Data cleaning and exploration
