@@ -1,4 +1,4 @@
-# OC_P1_Analyze-data-from-educational-systems
+# OC_P2_Analyze-data-from-educational-systems
 
 ### Context
 EdTech, a start-up called academy that which offers online training content for high school and university students, wants to do an international expansion project. As a Data Scientist in the company, my role on this project is to perform an initial exploratory analysis to answer the following questions: 
